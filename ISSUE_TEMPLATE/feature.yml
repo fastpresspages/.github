@@ -1,0 +1,48 @@
+name: Feature or check idea
+description: Propose a new capability, check, guide or collaboration.
+title: "[idea] "
+labels: ["enhancement", "needs triage"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: The user problem
+      description: Who is stuck, and what are they trying to do?
+      placeholder: A founder publishes a waitlist page and cannot tell whether the form is too long.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What should happen
+      description: A concrete outcome, not a mood.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - LaunchGrade check
+        - LaunchGrade CLI or report
+        - GitHub Action
+        - MCP server or agent skill
+        - Site or documentation
+        - Community or collaboration
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Existing tools, workarounds, or reasons not to build this.
+  - type: checkboxes
+    id: honesty
+    attributes:
+      label: Honesty check
+      options:
+        - label: This does not require fake metrics, fake urgency or a dark pattern to be useful.
+          required: true
+        - label: I am willing to help test or implement it.
+          required: false

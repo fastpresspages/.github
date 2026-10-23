@@ -1,0 +1,57 @@
+name: Bug report
+description: Something in a FastPress Labs tool does not work as documented.
+title: "[bug] "
+labels: ["bug", "needs triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. Please remove tokens, private URLs and customer data before posting.
+        Security issues belong in the private advisory flow described in SECURITY.md.
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      description: Which repository or tool?
+      placeholder: fastpresspages/launchgrade
+    validations:
+      required: true
+  - type: textarea
+    id: command
+    attributes:
+      label: Command or URL
+      description: The exact command you ran, or the page you audited.
+      render: shell
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: Paste the terminal output or the relevant part of the report.
+      render: shell
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Node version, operating system, and install method.
+      placeholder: Node 22.11, Windows 11, npx from GitHub
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I removed secrets and private data.
+          required: true
+        - label: This is not a security vulnerability.
+          required: true

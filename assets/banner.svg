@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">FastPress Labs — open-source launch tools for people who ship</title>
+  <desc id="desc">Dark banner with a lime FastPress Labs mark, the tagline, and LaunchGrade product facts: 53 checks, 7 categories, 0 dependencies.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08080A"/>
+      <stop offset="0.55" stop-color="#0B0C10"/>
+      <stop offset="1" stop-color="#10120C"/>
+    </linearGradient>
+    <radialGradient id="limeGlow" cx="0.85" cy="0.1" r="0.65">
+      <stop offset="0" stop-color="#C6FF4A" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#C6FF4A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violetGlow" cx="0.1" cy="1" r="0.6">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="lime" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D8FF7A"/>
+      <stop offset="1" stop-color="#A8E62E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#grid)"/>
+  <rect width="1280" height="420" fill="url(#limeGlow)"/>
+  <rect width="1280" height="420" fill="url(#violetGlow)"/>
+
+  <g transform="translate(72 74)">
+    <rect width="46" height="46" rx="12" fill="url(#lime)"/>
+    <path d="M14 33V14h7v6h8v7h-8v6h-7z" fill="#08080A"/>
+    <path d="M29 14h4.5c5.2 0 8.5 3.4 8.5 8.5S38.7 31 33.5 31H29v-7h4.2c1.3 0 2.1-.6 2.1-1.5s-.8-1.5-2.1-1.5H29v-7z" fill="#08080A"/>
+  </g>
+  <text x="134" y="96" fill="#F4F5F7" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3.2">FASTPRESS LABS</text>
+  <text x="134" y="118" fill="#8B8E98" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="1.1">OPEN SOURCE · BUILT IN PUBLIC</text>
+
+  <text fill="#F4F5F7" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="58" font-weight="750" letter-spacing="-1.8">
+    <tspan x="72" y="220">Open-source launch tools</tspan>
+    <tspan x="72" y="286">for people who ship.</tspan>
+  </text>
+
+  <text x="72" y="334" fill="#A8ABB5" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="20">
+    Free forever. Zero dependencies. No fake metrics.
+  </text>
+
+  <text x="72" y="384" fill="#C6FF4A" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0.6">github.com/fastpresspages</text>
+
+  <g transform="translate(905 72)">
+    <rect width="303" height="268" rx="18" fill="#0D0F12" stroke="#262A31"/>
+    <text x="26" y="42" fill="#8B8E98" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">LAUNCHGRADE</text>
+    <text x="26" y="116" fill="#C6FF4A" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="64" font-weight="750" letter-spacing="-3">53</text>
+    <text x="119" y="100" fill="#F4F5F7" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="600">checks</text>
+    <text x="119" y="122" fill="#8B8E98" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="13">in 7 categories</text>
+    <line x1="26" y1="150" x2="277" y2="150" stroke="#262A31"/>
+    <text x="26" y="181" fill="#F4F5F7" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14">0 dependencies</text>
+    <text x="277" y="181" fill="#3DDC84" text-anchor="end" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">ZERO</text>
+    <text x="26" y="211" fill="#F4F5F7" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14">CLI + Action + MCP</text>
+    <text x="277" y="211" fill="#3DDC84" text-anchor="end" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">READY</text>
+    <text x="26" y="241" fill="#F4F5F7" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14">Apache-2.0 license</text>
+    <text x="277" y="241" fill="#3DDC84" text-anchor="end" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">FREE</text>
+  </g>
+</svg>
