@@ -6,7 +6,7 @@
 
 **Small, free, open-source tools for people who ship.**
 
-[![LaunchGrade](https://img.shields.io/badge/launchgrade-v0.1.0-C6FF4A?labelColor=08080A)](https://github.com/fastpresspages/launchgrade)
+[![LaunchGrade](https://img.shields.io/badge/launchgrade-v0.3.0-C6FF4A?labelColor=08080A)](https://github.com/fastpresspages/launchgrade)
 [![CI](https://github.com/fastpresspages/launchgrade/actions/workflows/ci.yml/badge.svg)](https://github.com/fastpresspages/launchgrade/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-Apache--2.0-3DDC84?labelColor=08080A)](https://github.com/fastpresspages/launchgrade/blob/main/LICENSE)
 [![Dependencies](https://img.shields.io/badge/dependencies-0-A78BFA?labelColor=08080A)](https://github.com/fastpresspages/launchgrade)
@@ -37,7 +37,7 @@ That is the whole pitch. The rest of this page is why it exists and how to work 
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| **[LaunchGrade](https://github.com/fastpresspages/launchgrade)** | A zero-dependency launch-page grader: CLI, GitHub Action, MCP server and agent skill. Conversion, trust, technical, SEO, social, accessibility and AI-agent readiness. | **v0.1.0 · live** |
+| **[LaunchGrade](https://github.com/fastpresspages/launchgrade)** | A zero-dependency launch-page grader: CLI, GitHub Action, MCP server and agent skill. Conversion, trust, technical, SEO, social, accessibility and AI-agent readiness. Plus `--compare` for before/after diffs and a published JSON Schema. | **v0.3.0 · live · first community check merged** |
 | **[YouLauncher](https://fastpresspages.github.io/YouLauncher/)** | A free one-page growth partner for people launching without a team. Built for the moment before you have a marketing department. | **live** |
 | **[FastPress Start](https://github.com/fastpresspages/fastpress-start)** | A free, zero-build launch page template with SEO, privacy, accessibility, a working form and a public A+ audit. Fork it and ship in 15 minutes. | **v1.0.0 · live** |
 | **[Hire page](https://fastpresspages.github.io/hire-me/)** | A zero-build, recruiter-friendly profile of verified work. Public code, dated reports, no invented experience. | **live** |
