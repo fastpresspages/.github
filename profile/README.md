@@ -39,7 +39,7 @@ That is the whole pitch. The rest of this page is why it exists and how to work 
 | --- | --- | --- |
 | **[LaunchGrade](https://github.com/fastpresspages/launchgrade)** | A zero-dependency launch-page grader: CLI, GitHub Action, MCP server and agent skill. Conversion, trust, technical, SEO, social, accessibility and AI-agent readiness. | **v0.1.0 · live** |
 | **[YouLauncher](https://fastpresspages.github.io/YouLauncher/)** | A free one-page growth partner for people launching without a team. Built for the moment before you have a marketing department. | **live** |
-| **[FastPress Start](https://github.com/fastpresspages/fastpress-start)** | A free, zero-build launch page template with SEO, privacy, accessibility, a working form and a public A+ audit. Fork it and ship in 15 minutes. | **live** |
+| **[FastPress Start](https://github.com/fastpresspages/fastpress-start)** | A free, zero-build launch page template with SEO, privacy, accessibility, a working form and a public A+ audit. Fork it and ship in 15 minutes. | **v1.0.0 · live** |
 | **[Hire page](https://fastpresspages.github.io/hire-me/)** | A zero-build, recruiter-friendly profile of verified work. Public code, dated reports, no invented experience. | **live** |
 
 The real sample that keeps us honest: LaunchGrade's first scan of YouLauncher scored **[B- 71/100](https://github.com/fastpresspages/launchgrade/blob/main/samples/youlauncher-before/report.html)**. The fixes became the roadmap; the rebuilt page scored **[A+ 100/100](https://github.com/fastpresspages/launchgrade/blob/main/samples/youlauncher/report.html)**, with one deliberate warning (no analytics). We publish the before, not just the after.
