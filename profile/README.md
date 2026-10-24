@@ -40,6 +40,7 @@ That is the whole pitch. The rest of this page is why it exists and how to work 
 | --- | --- | --- |
 | **[LaunchGrade](https://github.com/fastpresspages/launchgrade)** | A zero-dependency launch-page grader: CLI, GitHub Action, MCP server and agent skill. Conversion, trust, technical, SEO, social, accessibility and AI-agent readiness. Plus `--compare` for before/after diffs and a published JSON Schema. | **v0.3.0 · live · first community check merged** |
 | **[YouLauncher](https://fastpresspages.github.io/YouLauncher/)** | A free one-page growth partner for people launching without a team. Built for the moment before you have a marketing department. | **live** |
+| [RepoGrade](https://github.com/fastpresspages/repograde) | Grade a public repo before you announce it — 33 checks across docs, community, engineering, discoverability, release hygiene and agent-readiness. CLI + GitHub Action + MCP + skill. | **v0.1.0 · live · dogfood A+ 99/100** |
 | **[FastPress Start](https://github.com/fastpresspages/fastpress-start)** | A free, zero-build launch page template with SEO, privacy, accessibility, a working form and a public A+ audit. Fork it and ship in 15 minutes. | **v1.0.0 · live** |
 | **[Hire page](https://fastpresspages.github.io/hire-me/)** | A zero-build, recruiter-friendly profile of verified work. Public code, dated reports, no invented experience. | **live** |
 
