@@ -89,6 +89,7 @@ We will not publish a partnership, customer count or endorsement we cannot show.
 - [Security policy](https://github.com/fastpresspages/.github/blob/main/SECURITY.md)
 - [Support](https://github.com/fastpresspages/.github/blob/main/SUPPORT.md)
 - [Outreach field guide](https://github.com/fastpresspages/outreach) — goals, ideas and honest templates, in public
+- [Press kit](https://github.com/fastpresspages/.github/blob/main/press.md) — boilerplate, facts, assets and coverage rules
 - [Discussions](https://github.com/fastpresspages/launchgrade/discussions) — start with the [welcome post](https://github.com/fastpresspages/launchgrade/discussions/6)
 
 <div align="center">
