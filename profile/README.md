@@ -15,6 +15,7 @@
 [Free page audit](https://fastpresspages.github.io/launchgrade/#audit) ·
 [LaunchGrade](https://github.com/fastpresspages/launchgrade) ·
 [YouLauncher](https://fastpresspages.github.io/YouLauncher/) ·
+[Hire page](https://fastpresspages.github.io/hire-me/) ·
 [Email](mailto:meetcode99@gmail.com)
 
 </div>
@@ -37,9 +38,9 @@ That is the whole pitch. The rest of this page is why it exists and how to work 
 | --- | --- | --- |
 | **[LaunchGrade](https://github.com/fastpresspages/launchgrade)** | A zero-dependency launch-page grader: CLI, GitHub Action, MCP server and agent skill. Conversion, trust, technical, SEO, social, accessibility and AI-agent readiness. | **v0.1.0 · live** |
 | **[YouLauncher](https://fastpresspages.github.io/YouLauncher/)** | A free one-page growth partner for people launching without a team. Built for the moment before you have a marketing department. | **live** |
-| **Hire page** | A zero-build, recruiter-friendly profile of verified work. Only public facts, no invented experience. | **in design** |
+| **[Hire page](https://fastpresspages.github.io/hire-me/)** | A zero-build, recruiter-friendly profile of verified work. Public code, dated reports, no invented experience. | **live** |
 
-The real sample that keeps us honest: LaunchGrade's first scan of YouLauncher scored **[B− 71/100](https://github.com/fastpresspages/launchgrade/blob/main/samples/youlauncher/report.html)**. The fixes became the roadmap. We publish the before, not just the after.
+The real sample that keeps us honest: LaunchGrade's first scan of YouLauncher scored **[B- 71/100](https://github.com/fastpresspages/launchgrade/blob/main/samples/youlauncher-before/report.html)**. The fixes became the roadmap; the rebuilt page scored **[A+ 100/100](https://github.com/fastpresspages/launchgrade/blob/main/samples/youlauncher/report.html)**, with one deliberate warning (no analytics). We publish the before, not just the after.
 
 ## What we believe
 
@@ -72,6 +73,7 @@ The real sample that keeps us honest: LaunchGrade's first scan of YouLauncher sc
 We are open to **collaborations, audits, sponsorships and paid builds** that fit the work. The bar is simple: useful to people who ship, honest about what it does, and free where it claims to be free.
 
 - **Get a free human audit** of your launch page: [fastpresspages.github.io/launchgrade/#audit](https://fastpresspages.github.io/launchgrade/#audit)
+- **Hiring Meet Shah:** [proof-of-work page](https://fastpresspages.github.io/hire-me/) with public code and dated reports
 - **Propose a collaboration or a paid build:** [meetcode99@gmail.com](mailto:meetcode99@gmail.com) with what you ship and what you need.
 - **Sponsor a check or a guide:** open an issue in [LaunchGrade](https://github.com/fastpresspages/launchgrade/issues) with the outcome you want.
 - **Contribute:** start with [CONTRIBUTING.md](https://github.com/fastpresspages/.github/blob/main/CONTRIBUTING.md) and the good-first-issue label.
