@@ -16,6 +16,7 @@
 [LaunchGrade](https://github.com/fastpresspages/launchgrade) ·
 [YouLauncher](https://fastpresspages.github.io/YouLauncher/) ·
 [FastPress Start](https://fastpresspages.github.io/fastpress-start/) ·
+- [RepoGrade](https://github.com/fastpresspages/repograde) — grade any public repo before you announce it (33 checks, CLI + Action + MCP).
 [Hire page](https://fastpresspages.github.io/hire-me/) ·
 [Email](mailto:meetcode99@gmail.com)
 
