@@ -78,7 +78,7 @@ We are open to **collaborations, audits, sponsorships and paid builds** that fit
 - **Hiring Meet Shah:** [proof-of-work page](https://fastpresspages.github.io/hire-me/) with public code and dated reports
 - **Propose a collaboration or a paid build:** [meetcode99@gmail.com](mailto:meetcode99@gmail.com) with what you ship and what you need.
 - **Sponsor a check or a guide:** open an issue in [LaunchGrade](https://github.com/fastpresspages/launchgrade/issues) with the outcome you want.
-- **Contribute:** start with [CONTRIBUTING.md](https://github.com/fastpresspages/.github/blob/main/CONTRIBUTING.md) and the good-first-issue label.
+- **Contribute:** start with [CONTRIBUTING.md](https://github.com/fastpresspages/.github/blob/main/CONTRIBUTING.md) and the [good-first-issue list](https://github.com/fastpresspages/launchgrade/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
 We will not publish a partnership, customer count or endorsement we cannot show. That is not a limitation; it is the product.
 
@@ -89,7 +89,7 @@ We will not publish a partnership, customer count or endorsement we cannot show.
 - [Security policy](https://github.com/fastpresspages/.github/blob/main/SECURITY.md)
 - [Support](https://github.com/fastpresspages/.github/blob/main/SUPPORT.md)
 - [Outreach field guide](https://github.com/fastpresspages/outreach) — goals, ideas and honest templates, in public
-- [Discussions](https://github.com/fastpresspages/launchgrade/discussions)
+- [Discussions](https://github.com/fastpresspages/launchgrade/discussions) — start with the [welcome post](https://github.com/fastpresspages/launchgrade/discussions/6)
 
 <div align="center">
 <br>
