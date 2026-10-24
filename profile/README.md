@@ -86,6 +86,7 @@ We will not publish a partnership, customer count or endorsement we cannot show.
 - [Code of Conduct](https://github.com/fastpresspages/.github/blob/main/CODE_OF_CONDUCT.md)
 - [Security policy](https://github.com/fastpresspages/.github/blob/main/SECURITY.md)
 - [Support](https://github.com/fastpresspages/.github/blob/main/SUPPORT.md)
+- [Outreach field guide](https://github.com/fastpresspages/outreach) — goals, ideas and honest templates, in public
 - [Discussions](https://github.com/fastpresspages/launchgrade/discussions)
 
 <div align="center">
