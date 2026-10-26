@@ -19,6 +19,7 @@
 [RepoGrade](https://fastpresspages.github.io/repograde/) ·
 [Agency](https://fastpresspages.github.io/agency/) ·
 [Placement Kit](https://fastpresspages.github.io/placement/) ·
+[Skills kit](https://fastpresspages.github.io/skills/) ·
 [Hire page](https://fastpresspages.github.io/hire-me/) ·
 [Email](mailto:meetcode99@gmail.com)
 
@@ -47,6 +48,7 @@ That is the whole pitch. The rest of this page is why it exists and how to work 
 | **[Hire page](https://fastpresspages.github.io/hire-me/)** | A zero-build, recruiter-friendly profile of verified work. Public code, dated reports, no invented experience. | **live** |
 | **[Agency](https://fastpresspages.github.io/agency/)** | The studio's paid-services storefront: 12 AI-service lines with starting prices, engagement rules and honest proof. The sales surface for people who liked the free tools. | **live · LaunchGrade A+ 100 · 26 Oct 2026** |
 | **[Placement Kit](https://fastpresspages.github.io/placement/)** | Free placement prep hub: 90-day plan, 51 verified free learning links, interview practice, job boards and a kind-mindset section. No paid courses promoted. | **live · links verified 26 Oct 2026** |
+| **[Skills kit](https://github.com/fastpresspages/skills)** | The agent-ops playbook as installable skills: fastpress-release (ship playbook), fastpress-teardown (weekly field scans), fastpress-support (inbox triage). Read-only scripts, self-check CI. | **v0.1.0 · live · site audited A+ 100** |
 
 The real sample that keeps us honest: LaunchGrade's first scan of YouLauncher scored **[B- 71/100](https://github.com/fastpresspages/launchgrade/blob/main/samples/youlauncher-before/report.html)**. The fixes became the roadmap; the rebuilt page scored **[A+ 100/100](https://github.com/fastpresspages/launchgrade/blob/main/samples/youlauncher/report.html)**, with one deliberate warning (no analytics). We publish the before, not just the after.
 
@@ -83,7 +85,7 @@ We are open to **collaborations, audits, sponsorships and paid builds** that fit
 - **Get a free human audit** of your launch page: [fastpresspages.github.io/launchgrade/#audit](https://fastpresspages.github.io/launchgrade/#audit)
 - **Hiring Meet Shah:** [proof-of-work page](https://fastpresspages.github.io/hire-me/) with public code and dated reports
 - **Need paid product work?** The [agency storefront](https://fastpresspages.github.io/agency/) lists 12 service lines with starting prices
-- **Studying for placements?** [Placement Kit](https://fastpresspages.github.io/placement/) is our free curated prep hub
+- **Studying for placements?** [Placement Kit](https://fastpresspages.github.io/placement/) is our free curated prep hub. Running an agent? Install our skills: `npx skills add fastpresspages/skills`.
 - **Propose a collaboration or a paid build:** [meetcode99@gmail.com](mailto:meetcode99@gmail.com) with what you ship and what you need.
 - **Sponsor a check or a guide:** open an issue in [LaunchGrade](https://github.com/fastpresspages/launchgrade/issues) with the outcome you want.
 - **Contribute:** start with [CONTRIBUTING.md](https://github.com/fastpresspages/.github/blob/main/CONTRIBUTING.md) and the [good-first-issue list](https://github.com/fastpresspages/launchgrade/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
